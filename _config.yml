@@ -100,3 +100,7 @@ content:
 title: Cirkuit Labs
 description: Plug on in
 github: true
+purpose:
+  - type: contact
+    url: 'tel:2268681928'
+    label: Call 2268681928
