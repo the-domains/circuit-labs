@@ -1,0 +1,102 @@
+layout_spectrum: 0.9744681
+typography_spectrum: 0.2191489
+color:
+  lightness: 0.1199844
+  brandStrength: 0.7951887
+  saturation: 0.2123944
+  rhythmicContrast: 0.06706556
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Circuit Labs
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FmpQrcxfNl-o%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmpQrcxfNl-o&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmpQrcxfNl-o%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: CrashCourse
+          url: 'https://www.youtube.com/user/crashcourse'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      keywords:
+        - john green
+        - hank green
+        - vlogbrothers
+        - crash course
+        - crashcourse
+        - education
+        - film
+        - film history
+        - world cinema
+        - asian film
+        - asian movies
+        - crash course film
+        - ja...
+      description: >-
+        The world is a big place and cinema isn't limited to just the U.S. and
+        Europe. There are a lot of vibrant and influential film movements and
+        cultures from all over the world. In this episode of Crash Course Film
+        History, Craig talks to us a little about some of the big moments in
+        Asian cinema; from Japan, to China, to India.
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=mpQrcxfNl-o&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=mpQrcxfNl-o&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=mpQrcxfNl-o&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=mpQrcxfNl-o&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=mpQrcxfNl-o&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=mpQrcxfNl-o'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=mpQrcxfNl-o
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=mpQrcxfNl-o
+          package: '544007664'
+          namespace: google
+          type: ios
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=mpQrcxfNl-o'
+      title: 'World Cinema - Part 1: Crash Course Film History #14'
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Cirkuit Labs
+description: Plug on in
+github: true
